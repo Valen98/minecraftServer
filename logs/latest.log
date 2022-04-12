@@ -1,0 +1,38 @@
+[12:13:08] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:13:10] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:13:10] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:13:10] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:13:10] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:13:10] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:13:11] [Worker-Main-19/INFO]: Loaded 7 recipes
+[12:13:12] [Worker-Main-19/INFO]: Loaded 1141 advancements
+[12:13:13] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[12:13:13] [Server thread/INFO]: Loading properties
+[12:13:13] [Server thread/INFO]: Default game type: SURVIVAL
+[12:13:13] [Server thread/INFO]: Generating keypair
+[12:13:13] [Server thread/INFO]: Starting Minecraft server on 192.168.1.165:25565
+[12:13:13] [Server thread/INFO]: Using default channel type
+[12:13:13] [Server thread/INFO]: Preparing level "world"
+[12:13:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:13:14] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[12:13:15] [Worker-Main-30/INFO]: Preparing spawn area: 0%
+[12:13:15] [Worker-Main-28/INFO]: Preparing spawn area: 0%
+[12:13:15] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[12:13:16] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[12:13:16] [Worker-Main-18/INFO]: Preparing spawn area: 4%
+[12:13:17] [Worker-Main-28/INFO]: Preparing spawn area: 11%
+[12:13:17] [Worker-Main-24/INFO]: Preparing spawn area: 36%
+[12:13:18] [Server thread/INFO]: Time elapsed: 4457 ms
+[12:13:18] [Server thread/INFO]: Done (4.583s)! For help, type "help"
+[12:13:38] [User Authenticator #1/INFO]: UUID of player unrake is e29e2e07-9e7c-4795-8a0e-642e380b234d
+[12:13:38] [Server thread/INFO]: unrake[/192.168.1.165:54472] logged in with entity id 321 at (-89.83189045428433, 63.521073074443116, 31.30000001192093)
+[12:13:38] [Server thread/INFO]: unrake joined the game
+[12:14:22] [Server thread/INFO]: unrake lost connection: Disconnected
+[12:14:22] [Server thread/INFO]: unrake left the game
+[12:14:29] [User Authenticator #2/INFO]: UUID of player unrake is e29e2e07-9e7c-4795-8a0e-642e380b234d
+[12:14:29] [Server thread/INFO]: unrake[/192.168.1.165:54498] logged in with entity id 886 at (-97.00278821007304, 78.10757053402094, 38.60598477872271)
+[12:14:29] [Server thread/INFO]: unrake joined the game
+[12:14:57] [Server thread/INFO]: unrake lost connection: Disconnected
+[12:14:57] [Server thread/INFO]: unrake left the game
+[12:15:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:15:04] [Server thread/INFO]: exit<--[HERE]
