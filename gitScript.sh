@@ -1,9 +1,8 @@
 git add .
 
-date=$(date '+%Y-%m-%d')
+date=$(date '+%Y-%m-%d %H:%M:%S')
 
 git commit -m "Pushed latest update on $date"
 
-git push origin $main
+git push origin main
 
-read
