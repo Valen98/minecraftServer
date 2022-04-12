@@ -95,6 +95,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2022-04-12 12:26:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2022-04-12 12:26:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2022-04-11 23:06:26 +0200"
@@ -122,6 +134,24 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-04-11 22:54:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2022-04-12 12:26:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2022-04-12 12:26:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-04-12 12:26:07 +0200"
     },
     "done": true
   },
@@ -155,6 +185,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2022-04-12 12:26:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-04-12 12:26:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2022-04-11 22:56:07 +0200"
@@ -176,6 +218,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2022-04-11 23:19:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2022-04-12 12:26:07 +0200"
     },
     "done": true
   },
@@ -305,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2022-04-12 12:26:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2022-04-11 23:06:26 +0200"
@@ -326,6 +380,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2022-04-11 23:06:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2022-04-12 12:26:07 +0200"
     },
     "done": true
   },
@@ -404,6 +464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2022-04-12 12:26:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2022-04-11 23:06:26 +0200"
@@ -425,6 +491,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-04-11 23:19:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2022-04-12 12:26:07 +0200"
     },
     "done": true
   },
@@ -506,6 +578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-04-12 12:26:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2022-04-11 22:56:07 +0200"
@@ -569,6 +647,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2022-04-11 23:06:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2022-04-12 12:26:07 +0200"
     },
     "done": true
   },
